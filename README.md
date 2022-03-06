@@ -10,4 +10,9 @@ The purpose of this analysis is to correct the academic dishonesty which accured
 Replacing the ninth grader's math and reading scores affected in the percentage passing math and percentage passing reading and over all passing percentage, before replacing the score the percentages were around 60 - 65% but now as you can see its above 90% 
 > <img width="450" alt="High and Low Performing Schools" src="https://user-images.githubusercontent.com/97934695/156893698-87a921cd-f4ae-47cd-acb8-257145f13097.png">
 ## Summary
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs
+* Math and reading scores by grade
+   - Math and Reading Scores from Thomas High School 9th Grade set to "nan" and equivalent to 0.
+   - Math and Reading Scores from Thomas High School 9th Grade means all of them failed (set to fail for analysis).
+   - Doing that, the only significantly score affected was minimal in a very small in quantity. 
+   - Student count() Before THS Cleanup was: 1635
+   - Student count() After THS Cleanup was: 1174
